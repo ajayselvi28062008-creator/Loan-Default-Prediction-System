@@ -1,18 +1,14 @@
 # Loan Default Prediction System
 
-## Overview
+ Overview
 
 This project analyzes loan borrower data using Exploratory Data Analysis (EDA), Linear Regression, and Dashboard Visualization to identify loan default patterns and understand borrower behavior.
-
----
 
 ## Problem Statement
 
 Banks and financial institutions face financial losses when borrowers fail to repay loans on time. Manually analyzing large amounts of loan data is difficult and time-consuming.
 
 This project helps identify high-risk borrowers and supports better loan approval decisions using data analysis and machine learning techniques.
-
----
 
 ## Dataset
 
@@ -32,8 +28,6 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club
 * purpose
 * loan_status
 
----
-
 ## Technologies Used
 
 * Python
@@ -42,8 +36,6 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club
 * Seaborn
 * Plotly
 * Scikit-learn
-
----
 
 ## Project Steps
 
@@ -55,8 +47,6 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club
 6. Model Evaluation
 7. Dashboard Creation
 
----
-
 ## Features
 
 * Loan default analysis
@@ -65,14 +55,6 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club
 * Interactive dashboard
 * Loan prediction model
 
----
-
 ## Conclusion
 
 This project helps understand borrower behavior, identify risky customers, and improve loan approval strategies using data analysis and machine learning.
-
----
-
-## Author
-
-Walsh Jeslin
