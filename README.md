@@ -1,6 +1,6 @@
 # Loan Default Prediction System
 
- Overview
+## Overview
 
 This project analyzes loan borrower data using Exploratory Data Analysis (EDA), Linear Regression, and Dashboard Visualization to identify loan default patterns and understand borrower behavior.
 
