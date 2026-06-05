@@ -13,6 +13,7 @@ This project helps identify high-risk borrowers and supports better loan approva
 ## Dataset
 
 * **Source:** Kaggle
+
 * **Dataset:** Lending Club Loan Data
 
 https://www.kaggle.com/datasets/wordsforthewise/lending-club
@@ -55,6 +56,21 @@ https://www.kaggle.com/datasets/wordsforthewise/lending-club
 * Interactive dashboard
 * Loan prediction model
 
+## Visualizations
+
+### Loan Default Distribution
+<img width="700" height="568" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/65d5da80-f4d2-42d3-95a9-b549cd5e9d13" />
+
+### Scatterplot
+<img width="733" height="538" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/cebe3601-8800-4451-89f3-f0c3672a7ef2" />
+
+### Correlation Heatmap
+<img width="718" height="517" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/2630c6ba-bb5f-4f7e-80d1-f0481626f835" />
+
 ## Conclusion
 
 This project helps understand borrower behavior, identify risky customers, and improve loan approval strategies using data analysis and machine learning.
+
+
+
+
