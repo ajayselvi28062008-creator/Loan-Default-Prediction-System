@@ -16,8 +16,6 @@ This project helps identify high-risk borrowers and supports better loan approva
 
 * **Dataset:** Lending Club Loan Data
 
-https://www.kaggle.com/datasets/wordsforthewise/lending-club
-
 ### Columns Used
 
 * loan_amnt
